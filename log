@@ -1,0 +1,401 @@
+Adam alpha=0.0001
+epoch 1
+
+
+generated graph
+{"iteration": 100, "loss": 1.3634224146604539, "type": "train", "error": 0.49187499999999995}
+
+{"iteration": 200, "loss": 1.001215624511242, "type": "train", "error": 0.400625}
+
+{"iteration": 300, "loss": 0.9023999497294426, "type": "train", "error": 0.39749999999999996}
+
+{"iteration": 400, "loss": 0.9229684817790985, "type": "train", "error": 0.40375000000000005}
+
+{"iteration": 500, "loss": 0.850545103251934, "type": "train", "error": 0.37250000000000005}
+
+{"iteration": 600, "loss": 0.9016289401054383, "type": "train", "error": 0.37875000000000003}
+
+{"iteration": 700, "loss": 0.8234488216042518, "type": "train", "error": 0.35187500000000005}
+
+{"iteration": 800, "loss": 0.8024911367893219, "type": "train", "error": 0.349375}
+
+{"iteration": 900, "loss": 0.83773009121418, "type": "train", "error": 0.36875}
+train 1000 updates (16000 samples) time: 0:16:57.811972 (15.7199958715 images/sec)
+{"iteration": 1000, "loss": 0.8764304339885711, "type": "train", "error": 0.370625}
+
+{"iteration": 1100, "loss": 0.7861089217662811, "type": "train", "error": 0.32875}
+
+{"iteration": 1200, "loss": 0.7451668086647988, "type": "train", "error": 0.29874999999999996}
+
+{"iteration": 1300, "loss": 0.7849072879552841, "type": "train", "error": 0.34125000000000005}
+
+{"iteration": 1400, "loss": 0.7873945957422257, "type": "train", "error": 0.33187500000000003}
+
+{"iteration": 1500, "loss": 0.7340563881397247, "type": "train", "error": 0.30625}
+
+{"iteration": 1600, "loss": 0.7385551106929779, "type": "train", "error": 0.31499999999999995}
+
+{"iteration": 1700, "loss": 0.800442926287651, "type": "train", "error": 0.33687500000000004}
+
+{"iteration": 1800, "loss": 0.7158558544516563, "type": "train", "error": 0.31499999999999995}
+
+{"iteration": 1900, "loss": 0.7375956630706787, "type": "train", "error": 0.3125}
+train 2000 updates (32000 samples) time: 0:33:48.767883 (15.773120359 images/sec)
+{"iteration": 2000, "loss": 0.7413331484794616, "type": "train", "error": 0.308125}
+
+{"iteration": 2100, "loss": 0.740834210216999, "type": "train", "error": 0.31375}
+
+{"iteration": 2200, "loss": 0.6763072723150253, "type": "train", "error": 0.2925}
+
+{"iteration": 2300, "loss": 0.7307044926285744, "type": "train", "error": 0.3075}
+
+{"iteration": 2400, "loss": 0.7108477702736855, "type": "train", "error": 0.30874999999999997}
+
+{"iteration": 2500, "loss": 0.7010957649350167, "type": "train", "error": 0.2975}
+
+{"iteration": 2600, "loss": 0.7217257958650589, "type": "train", "error": 0.3075}
+
+{"iteration": 2700, "loss": 0.6768183895945549, "type": "train", "error": 0.291875}
+
+{"iteration": 2800, "loss": 0.7213594087958336, "type": "train", "error": 0.30374999999999996}
+
+{"iteration": 2900, "loss": 0.7012023311853409, "type": "train", "error": 0.29374999999999996}
+train 3000 updates (48000 samples) time: 0:50:38.882542 (15.7952797894 images/sec)
+{"iteration": 3000, "loss": 0.6664858785271645, "type": "train", "error": 0.280625}
+
+{"iteration": 3100, "loss": 0.6838721397519112, "type": "train", "error": 0.29625}
+
+{"iteration": 3200, "loss": 0.6960590785741806, "type": "train", "error": 0.28937500000000005}
+epoch 2
+
+{"iteration": 3300, "loss": 0.6913150840997696, "type": "train", "error": 0.29625}
+
+{"iteration": 3400, "loss": 0.6413615864515304, "type": "train", "error": 0.27375000000000005}
+
+{"iteration": 3500, "loss": 0.6758683556318283, "type": "train", "error": 0.29437500000000005}
+
+{"iteration": 3600, "loss": 0.6590625163912773, "type": "train", "error": 0.298125}
+
+{"iteration": 3700, "loss": 0.6934648582339287, "type": "train", "error": 0.30125}
+
+{"iteration": 3800, "loss": 0.641408109664917, "type": "train", "error": 0.27625}
+
+{"iteration": 3900, "loss": 0.6423883257806301, "type": "train", "error": 0.27625}
+train 4000 updates (64000 samples) time: 1:07:27.708980 (15.8114133983 images/sec)
+{"iteration": 4000, "loss": 0.6856958711147308, "type": "train", "error": 0.29937499999999995}
+
+{"iteration": 4100, "loss": 0.6531846207380295, "type": "train", "error": 0.27875000000000005}
+
+{"iteration": 4200, "loss": 0.671509510576725, "type": "train", "error": 0.291875}
+
+{"iteration": 4300, "loss": 0.6533449819684028, "type": "train", "error": 0.286875}
+
+{"iteration": 4400, "loss": 0.6636737418174744, "type": "train", "error": 0.275}
+
+{"iteration": 4500, "loss": 0.6357450428605079, "type": "train", "error": 0.271875}
+
+{"iteration": 4600, "loss": 0.6831655731797218, "type": "train", "error": 0.290625}
+
+{"iteration": 4700, "loss": 0.6746414253115653, "type": "train", "error": 0.28500000000000003}
+
+{"iteration": 4800, "loss": 0.611390840113163, "type": "train", "error": 0.26249999999999996}
+
+{"iteration": 4900, "loss": 0.6273300537467003, "type": "train", "error": 0.270625}
+train 5000 updates (80000 samples) time: 1:24:11.820573 (15.8358751746 images/sec)
+{"iteration": 5000, "loss": 0.6783352127671242, "type": "train", "error": 0.30000000000000004}
+
+{"iteration": 5100, "loss": 0.6224474966526031, "type": "train", "error": 0.25312500000000004}
+
+{"iteration": 5200, "loss": 0.63833939909935, "type": "train", "error": 0.28874999999999995}
+
+{"iteration": 5300, "loss": 0.6176390269398689, "type": "train", "error": 0.26}
+
+{"iteration": 5400, "loss": 0.6287804809212685, "type": "train", "error": 0.264375}
+
+{"iteration": 5500, "loss": 0.6449112913012505, "type": "train", "error": 0.28437500000000004}
+
+{"iteration": 5600, "loss": 0.6038514442741871, "type": "train", "error": 0.275}
+
+{"iteration": 5700, "loss": 0.6576230099797249, "type": "train", "error": 0.276875}
+
+{"iteration": 5800, "loss": 0.6590301942825317, "type": "train", "error": 0.29000000000000004}
+
+{"iteration": 5900, "loss": 0.6455694004893303, "type": "train", "error": 0.28374999999999995}
+train 6000 updates (96000 samples) time: 1:40:57.479585 (15.8481755743 images/sec)
+{"iteration": 6000, "loss": 0.6009227302670479, "type": "train", "error": 0.25875000000000004}
+
+{"iteration": 6100, "loss": 0.6209293909370899, "type": "train", "error": 0.26}
+
+{"iteration": 6200, "loss": 0.6760551404953002, "type": "train", "error": 0.2875}
+
+val   1000 batches (1000 samples) time: 0:00:29.787032 (33.5716564083 images/sec)val   2000 batches (2000 samples) time: 0:00:52.856313 (37.8384319082 images/sec)val   3000 batches (3000 samples) time: 0:01:16.437847 (39.2475733122 images/sec)val   4000 batches (4000 samples) time: 0:01:39.131897 (40.3502820198 images/sec)val   5000 batches (5000 samples) time: 0:02:01.842435 (41.0366060461 images/sec)val   6000 batches (6000 samples) time: 0:02:25.261837 (41.3047234131 images/sec)val   7000 batches (7000 samples) time: 0:02:48.272917 (41.5990886915 images/sec)val   8000 batches (8000 samples) time: 0:03:11.222674 (41.8360429605 images/sec)val   9000 batches (9000 samples) time: 0:03:34.639022 (41.9308656527 images/sec)val   10000 batches (10000 samples) time: 0:03:57.680507 (42.0732862301 images/sec)val   11000 batches (11000 samples) time: 0:04:21.371255 (42.0857297537 images/sec)val   12000 batches (12000 samples) time: 0:04:44.157462 (42.2301069292 images/sec)val   13000 batches (13000 samples) time: 0:05:07.098599 (42.331681239 images/sec)val   14000 batches (14000 samples) time: 0:05:30.779486 (42.3242691734 images/sec)val   15000 batches (15000 samples) time: 0:05:53.655107 (42.4142044104 images/sec)
+{"iteration": 6250, "loss": 0.6887871098228575, "type": "val", "error": 0.29479999999999995}
+val   16000 batches (16000 samples) time: 0:06:17.513296 (42.3826132066 images/sec)val   17000 batches (17000 samples) time: 0:06:40.122813 (42.4869551254 images/sec)
+
+{"iteration": 6300, "loss": 0.6269263191521168, "type": "train", "error": 0.26875000000000004}
+
+{"iteration": 6400, "loss": 0.6358967883884907, "type": "train", "error": 0.26875000000000004}
+epoch 3
+
+{"iteration": 6500, "loss": 0.6663844209909439, "type": "train", "error": 0.28374999999999995}
+
+{"iteration": 6600, "loss": 0.6496832808852195, "type": "train", "error": 0.291875}
+
+{"iteration": 6700, "loss": 0.556992004364729, "type": "train", "error": 0.25125}
+
+{"iteration": 6800, "loss": 0.6092022725939751, "type": "train", "error": 0.25625}
+
+{"iteration": 6900, "loss": 0.587159419953823, "type": "train", "error": 0.24875000000000003}
+train 7000 updates (112000 samples) time: 1:57:42.241304 (15.8589879864 images/sec)
+{"iteration": 7000, "loss": 0.6064430378377438, "type": "train", "error": 0.26812499999999995}
+
+{"iteration": 7100, "loss": 0.6171395048499108, "type": "train", "error": 0.26625}
+
+{"iteration": 7200, "loss": 0.611263622045517, "type": "train", "error": 0.26312500000000005}
+
+{"iteration": 7300, "loss": 0.6113045248389244, "type": "train", "error": 0.26749999999999996}
+
+{"iteration": 7400, "loss": 0.6058122180402279, "type": "train", "error": 0.24687499999999996}
+
+{"iteration": 7500, "loss": 0.6038543491065502, "type": "train", "error": 0.26937500000000003}
+
+{"iteration": 7600, "loss": 0.5782650808990002, "type": "train", "error": 0.25312500000000004}
+
+{"iteration": 7700, "loss": 0.624037224650383, "type": "train", "error": 0.26375000000000004}
+
+{"iteration": 7800, "loss": 0.631809863448143, "type": "train", "error": 0.28500000000000003}
+
+{"iteration": 7900, "loss": 0.609332545697689, "type": "train", "error": 0.27812499999999996}
+train 8000 updates (128000 samples) time: 2:14:25.028018 (15.8709926009 images/sec)
+{"iteration": 8000, "loss": 0.6324893778562546, "type": "train", "error": 0.26312500000000005}
+
+{"iteration": 8100, "loss": 0.5542097459733486, "type": "train", "error": 0.23750000000000004}
+
+{"iteration": 8200, "loss": 0.6177322126924991, "type": "train", "error": 0.266875}
+
+{"iteration": 8300, "loss": 0.5734315520524979, "type": "train", "error": 0.24250000000000005}
+
+{"iteration": 8400, "loss": 0.6078638505935668, "type": "train", "error": 0.25749999999999995}
+
+{"iteration": 8500, "loss": 0.5774895386397838, "type": "train", "error": 0.26375000000000004}
+
+{"iteration": 8600, "loss": 0.584944488555193, "type": "train", "error": 0.24750000000000005}
+
+{"iteration": 8700, "loss": 0.6175889284908771, "type": "train", "error": 0.260625}
+
+{"iteration": 8800, "loss": 0.601257243603468, "type": "train", "error": 0.26749999999999996}
+
+{"iteration": 8900, "loss": 0.5953255060315132, "type": "train", "error": 0.24875000000000003}
+train 9000 updates (144000 samples) time: 2:31:10.566451 (15.8755245085 images/sec)
+{"iteration": 9000, "loss": 0.596439026594162, "type": "train", "error": 0.24750000000000005}
+
+{"iteration": 9100, "loss": 0.5859840914607048, "type": "train", "error": 0.26}
+
+{"iteration": 9200, "loss": 0.5833790530264378, "type": "train", "error": 0.25249999999999995}
+
+{"iteration": 9300, "loss": 0.5910661858320236, "type": "train", "error": 0.26}
+
+{"iteration": 9400, "loss": 0.5873968836665153, "type": "train", "error": 0.24187499999999995}
+
+{"iteration": 9500, "loss": 0.5926584842801094, "type": "train", "error": 0.27125}
+
+{"iteration": 9600, "loss": 0.5686922407150269, "type": "train", "error": 0.25187499999999996}
+
+{"iteration": 9700, "loss": 0.6115127737820149, "type": "train", "error": 0.27125}
+epoch 4
+
+{"iteration": 9800, "loss": 0.5795581445097924, "type": "train", "error": 0.26375000000000004}
+
+{"iteration": 9900, "loss": 0.6045723497867584, "type": "train", "error": 0.26875000000000004}
+train 10000 updates (160000 samples) time: 2:47:55.679468 (15.879822349 images/sec)
+{"iteration": 10000, "loss": 0.569860072284937, "type": "train", "error": 0.23687499999999995}
+
+{"iteration": 10100, "loss": 0.5483661234378815, "type": "train", "error": 0.24624999999999997}
+
+{"iteration": 10200, "loss": 0.5855522982776165, "type": "train", "error": 0.249375}
+
+{"iteration": 10300, "loss": 0.57325827434659, "type": "train", "error": 0.239375}
+
+{"iteration": 10400, "loss": 0.5585826820135117, "type": "train", "error": 0.250625}
+
+{"iteration": 10500, "loss": 0.5607390271127224, "type": "train", "error": 0.23624999999999996}
+
+{"iteration": 10600, "loss": 0.5656497721374035, "type": "train", "error": 0.24187499999999995}
+
+{"iteration": 10700, "loss": 0.5648897564411164, "type": "train", "error": 0.24687499999999996}
+
+{"iteration": 10800, "loss": 0.557287463247776, "type": "train", "error": 0.239375}
+
+{"iteration": 10900, "loss": 0.5970067228376865, "type": "train", "error": 0.26125}
+train 11000 updates (176000 samples) time: 3:04:37.641404 (15.8878585774 images/sec)
+{"iteration": 11000, "loss": 0.5919908984005451, "type": "train", "error": 0.26125}
+
+{"iteration": 11100, "loss": 0.5587192614376545, "type": "train", "error": 0.25187499999999996}
+
+{"iteration": 11200, "loss": 0.5747262907028198, "type": "train", "error": 0.24}
+
+{"iteration": 11300, "loss": 0.5805088840425014, "type": "train", "error": 0.24375000000000002}
+
+{"iteration": 11400, "loss": 0.6011910675466061, "type": "train", "error": 0.26125}
+
+{"iteration": 11500, "loss": 0.534085747897625, "type": "train", "error": 0.21625000000000005}
+
+{"iteration": 11600, "loss": 0.5717898033559322, "type": "train", "error": 0.25125}
+
+{"iteration": 11700, "loss": 0.5547295401990414, "type": "train", "error": 0.229375}
+
+{"iteration": 11800, "loss": 0.5601073271036148, "type": "train", "error": 0.244375}
+
+{"iteration": 11900, "loss": 0.5675906692445278, "type": "train", "error": 0.250625}
+train 12000 updates (192000 samples) time: 3:21:22.554549 (15.8906793442 images/sec)
+{"iteration": 12000, "loss": 0.575405355989933, "type": "train", "error": 0.25687499999999996}
+
+{"iteration": 12100, "loss": 0.5427552360296249, "type": "train", "error": 0.23562499999999997}
+
+{"iteration": 12200, "loss": 0.5847211845219136, "type": "train", "error": 0.25187499999999996}
+
+{"iteration": 12300, "loss": 0.5507180590927601, "type": "train", "error": 0.21687500000000004}
+
+{"iteration": 12400, "loss": 0.5795855528116226, "type": "train", "error": 0.25249999999999995}
+
+{"iteration": 12500, "loss": 0.5503515437245369, "type": "train", "error": 0.24875000000000003}
+
+val   1000 batches (1000 samples) time: 0:00:26.243293 (38.1049740294 images/sec)val   2000 batches (2000 samples) time: 0:00:49.161836 (40.6819630172 images/sec)val   3000 batches (3000 samples) time: 0:01:12.841244 (41.1854580727 images/sec)val   4000 batches (4000 samples) time: 0:01:35.540461 (41.8670786751 images/sec)val   5000 batches (5000 samples) time: 0:01:58.217967 (42.2947554037 images/sec)val   6000 batches (6000 samples) time: 0:02:22.169321 (42.2031979562 images/sec)val   7000 batches (7000 samples) time: 0:02:44.894135 (42.4514795512 images/sec)val   8000 batches (8000 samples) time: 0:03:07.771413 (42.6049943836 images/sec)val   9000 batches (9000 samples) time: 0:03:31.190574 (42.6155383381 images/sec)val   10000 batches (10000 samples) time: 0:03:53.766538 (42.7777220788 images/sec)val   11000 batches (11000 samples) time: 0:04:17.513479 (42.7162105959 images/sec)val   12000 batches (12000 samples) time: 0:04:40.268983 (42.8160114836 images/sec)val   13000 batches (13000 samples) time: 0:05:03.014388 (42.9022531972 images/sec)val   14000 batches (14000 samples) time: 0:05:26.819252 (42.8371337175 images/sec)val   15000 batches (15000 samples) time: 0:05:49.656598 (42.8992333675 images/sec)
+{"iteration": 12500, "loss": 0.6339330804325368, "type": "val", "error": 0.29479999999999995}
+val   16000 batches (16000 samples) time: 0:06:13.801327 (42.8034863569 images/sec)val   17000 batches (17000 samples) time: 0:06:36.327813 (42.8937849831 images/sec)
+
+{"iteration": 12600, "loss": 0.5147939583659172, "type": "train", "error": 0.22687500000000005}
+
+{"iteration": 12700, "loss": 0.5961087214946746, "type": "train", "error": 0.259375}
+
+{"iteration": 12800, "loss": 0.5644999638199806, "type": "train", "error": 0.25625}
+
+{"iteration": 12900, "loss": 0.5510182109475136, "type": "train", "error": 0.23187500000000005}
+epoch 5
+train 13000 updates (208000 samples) time: 3:38:06.251448 (15.894544043 images/sec)
+{"iteration": 13000, "loss": 0.5703052252531051, "type": "train", "error": 0.24187499999999995}
+
+{"iteration": 13100, "loss": 0.5615869005024433, "type": "train", "error": 0.24562499999999998}
+
+{"iteration": 13200, "loss": 0.5696763199567795, "type": "train", "error": 0.25}
+
+{"iteration": 13300, "loss": 0.5573395992815494, "type": "train", "error": 0.23875000000000002}
+
+{"iteration": 13400, "loss": 0.5320685611665249, "type": "train", "error": 0.22750000000000004}
+
+{"iteration": 13500, "loss": 0.5375066950917244, "type": "train", "error": 0.22562499999999996}
+
+{"iteration": 13600, "loss": 0.5203076408803463, "type": "train", "error": 0.224375}
+
+{"iteration": 13700, "loss": 0.5421427457034588, "type": "train", "error": 0.24375000000000002}
+
+{"iteration": 13800, "loss": 0.5470770156383514, "type": "train", "error": 0.235}
+
+{"iteration": 13900, "loss": 0.5473275466263294, "type": "train", "error": 0.234375}
+train 14000 updates (224000 samples) time: 3:54:46.934387 (15.9012595535 images/sec)
+{"iteration": 14000, "loss": 0.5699977588653564, "type": "train", "error": 0.26125}
+
+{"iteration": 14100, "loss": 0.5363872331380845, "type": "train", "error": 0.22250000000000003}
+
+{"iteration": 14200, "loss": 0.5608457437902689, "type": "train", "error": 0.24187499999999995}
+
+{"iteration": 14300, "loss": 0.5123734054714442, "type": "train", "error": 0.21875}
+
+{"iteration": 14400, "loss": 0.548663469105959, "type": "train", "error": 0.23124999999999996}
+
+{"iteration": 14500, "loss": 0.5869634068012237, "type": "train", "error": 0.25625}
+
+{"iteration": 14600, "loss": 0.5192840498685837, "type": "train", "error": 0.23312500000000003}
+
+{"iteration": 14700, "loss": 0.522552942186594, "type": "train", "error": 0.22062499999999996}
+
+{"iteration": 14800, "loss": 0.5710473644733429, "type": "train", "error": 0.255}
+
+{"iteration": 14900, "loss": 0.5482299639284611, "type": "train", "error": 0.24124999999999996}
+train 15000 updates (240000 samples) time: 4:11:29.007955 (15.9056182298 images/sec)
+{"iteration": 15000, "loss": 0.5639885151386261, "type": "train", "error": 0.24187499999999995}
+
+{"iteration": 15100, "loss": 0.5589076420664787, "type": "train", "error": 0.239375}
+
+{"iteration": 15200, "loss": 0.5272317580878735, "type": "train", "error": 0.22750000000000004}
+
+{"iteration": 15300, "loss": 0.5035697013139725, "type": "train", "error": 0.20875}
+
+{"iteration": 15400, "loss": 0.5117583766579628, "type": "train", "error": 0.22312500000000002}
+
+{"iteration": 15500, "loss": 0.5249496546387672, "type": "train", "error": 0.22499999999999998}
+
+{"iteration": 15600, "loss": 0.5490640830993653, "type": "train", "error": 0.24250000000000005}
+
+{"iteration": 15700, "loss": 0.554226056933403, "type": "train", "error": 0.23624999999999996}
+
+{"iteration": 15800, "loss": 0.5253986731171608, "type": "train", "error": 0.21625000000000005}
+
+{"iteration": 15900, "loss": 0.5086901052296162, "type": "train", "error": 0.20625000000000004}
+train 16000 updates (256000 samples) time: 4:28:09.764914 (15.9107358851 images/sec)
+{"iteration": 16000, "loss": 0.5084543332457543, "type": "train", "error": 0.22375}
+
+{"iteration": 16100, "loss": 0.5183661806583405, "type": "train", "error": 0.22750000000000004}
+epoch 6
+
+{"iteration": 16200, "loss": 0.5247376964986324, "type": "train", "error": 0.218125}
+
+{"iteration": 16300, "loss": 0.5172408722341061, "type": "train", "error": 0.21062499999999995}
+
+{"iteration": 16400, "loss": 0.529173438847065, "type": "train", "error": 0.23250000000000004}
+
+{"iteration": 16500, "loss": 0.5062743626534939, "type": "train", "error": 0.22312500000000002}
+
+{"iteration": 16600, "loss": 0.5307769161462784, "type": "train", "error": 0.23187500000000005}
+
+{"iteration": 16700, "loss": 0.536704383790493, "type": "train", "error": 0.23250000000000004}
+
+{"iteration": 16800, "loss": 0.5221992267668247, "type": "train", "error": 0.22999999999999998}
+
+{"iteration": 16900, "loss": 0.541050327271223, "type": "train", "error": 0.239375}
+train 17000 updates (272000 samples) time: 4:44:47.988527 (15.9176136834 images/sec)
+{"iteration": 17000, "loss": 0.5267233815789223, "type": "train", "error": 0.21625000000000005}
+
+{"iteration": 17100, "loss": 0.5138240054249763, "type": "train", "error": 0.22750000000000004}
+
+{"iteration": 17200, "loss": 0.5413218250870705, "type": "train", "error": 0.23375}
+
+{"iteration": 17300, "loss": 0.5170424392819405, "type": "train", "error": 0.22375}
+
+{"iteration": 17400, "loss": 0.4984090632200241, "type": "train", "error": 0.20875}
+
+{"iteration": 17500, "loss": 0.48152323260903357, "type": "train", "error": 0.19999999999999996}
+
+{"iteration": 17600, "loss": 0.5041462440788745, "type": "train", "error": 0.21687500000000004}
+
+{"iteration": 17700, "loss": 0.5006799560785293, "type": "train", "error": 0.20999999999999996}
+
+{"iteration": 17800, "loss": 0.47154842868447305, "type": "train", "error": 0.19937499999999997}
+
+{"iteration": 17900, "loss": 0.5271665412187576, "type": "train", "error": 0.224375}
+train 18000 updates (288000 samples) time: 5:01:29.916829 (15.9204712062 images/sec)
+{"iteration": 18000, "loss": 0.5587475210428238, "type": "train", "error": 0.23062499999999997}
+
+{"iteration": 18100, "loss": 0.4808372928202152, "type": "train", "error": 0.20437499999999997}
+
+{"iteration": 18200, "loss": 0.5002575653791428, "type": "train", "error": 0.21562499999999996}
+
+{"iteration": 18300, "loss": 0.5072416760027408, "type": "train", "error": 0.22062499999999996}
+
+{"iteration": 18400, "loss": 0.5291834750771522, "type": "train", "error": 0.22812500000000002}
+
+{"iteration": 18500, "loss": 0.5101177947223187, "type": "train", "error": 0.21750000000000003}
+
+{"iteration": 18600, "loss": 0.5483352261781692, "type": "train", "error": 0.229375}
+
+{"iteration": 18700, "loss": 0.5273059865832329, "type": "train", "error": 0.22999999999999998}
+
+val   1000 batches (1000 samples) time: 0:00:25.508840 (39.2020960853 images/sec)val   2000 batches (2000 samples) time: 0:00:48.554116 (41.1911525598 images/sec)val   3000 batches (3000 samples) time: 0:01:11.515283 (41.9490753533 images/sec)val   4000 batches (4000 samples) time: 0:01:34.623922 (42.2726083513 images/sec)val   5000 batches (5000 samples) time: 0:01:57.588492 (42.5211677466 images/sec)val   6000 batches (6000 samples) time: 0:02:20.502647 (42.7038217515 images/sec)val   7000 batches (7000 samples) time: 0:02:43.665144 (42.770255354 images/sec)val   8000 batches (8000 samples) time: 0:03:06.429825 (42.9115888357 images/sec)val   9000 batches (9000 samples) time: 0:03:29.286214 (43.0033102664 images/sec)val   10000 batches (10000 samples) time: 0:03:52.483665 (43.0137747547 images/sec)val   11000 batches (11000 samples) time: 0:04:15.289816 (43.0882836075 images/sec)val   12000 batches (12000 samples) time: 0:04:38.690277 (43.0585527593 images/sec)val   13000 batches (13000 samples) time: 0:05:01.608780 (43.1021934896 images/sec)val   14000 batches (14000 samples) time: 0:05:24.596075 (43.1305276797 images/sec)val   15000 batches (15000 samples) time: 0:05:48.148470 (43.085066532 images/sec)
+{"iteration": 18750, "loss": 0.5635780809348282, "type": "val", "error": 0.2512}
+val   16000 batches (16000 samples) time: 0:06:11.398453 (43.0804163854 images/sec)val   17000 batches (17000 samples) time: 0:06:35.180089 (43.0183616871 images/sec)
+
+{"iteration": 18800, "loss": 0.516277836561203, "type": "train", "error": 0.23312500000000003}
+
+{"iteration": 18900, "loss": 0.47387016043066976, "type": "train", "error": 0.20875}
+train 19000 updates (304000 samples) time: 5:18:10.381367 (15.9242497128 images/sec)
+{"iteration": 19000, "loss": 0.5071161229908466, "type": "train", "error": 0.21625000000000005}
